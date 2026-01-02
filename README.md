@@ -1,7 +1,6 @@
 Pedagogické portfolio <br>
 Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
+Eva Pantlíková Malíková D250291 <br>
+obor: UIT/UAJ, kombinované studium <br>
 Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
